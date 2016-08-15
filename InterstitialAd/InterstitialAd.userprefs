@@ -1,0 +1,4 @@
+﻿<Properties StartupItem="Droid/InterstitialAd.Droid.csproj">
+  <MonoDevelop.Ide.ItemProperties.InterstitialAd.Droid PreferredExecutionTarget="Android.Nexus 10 (KitKat)" />
+  <MonoDevelop.Ide.ItemProperties.InterstitialAd.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.0A9208A0-3938-4680-919E-7BCFF265F8ED" />
+</Properties>
